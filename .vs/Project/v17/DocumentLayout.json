@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA01476E-C004-4FFE-ADB4-45E21C23A242}|Project\\Project.csproj|c:\\users\\malek\\documents\\luka-univ\\rad\\come334-project\\project\\project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA01476E-C004-4FFE-ADB4-45E21C23A242}|Project\\Project.csproj|solutionrelative:project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA01476E-C004-4FFE-ADB4-45E21C23A242}|Project\\Project.csproj|C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA01476E-C004-4FFE-ADB4-45E21C23A242}|Project\\Project.csproj|solutionrelative:project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA01476E-C004-4FFE-ADB4-45E21C23A242}|Project\\Project.csproj|C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA01476E-C004-4FFE-ADB4-45E21C23A242}|Project\\Project.csproj|solutionrelative:project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA01476E-C004-4FFE-ADB4-45E21C23A242}|Project\\Project.csproj|C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA01476E-C004-4FFE-ADB4-45E21C23A242}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA01476E-C004-4FFE-ADB4-45E21C23A242}|Project\\Project.csproj|C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA01476E-C004-4FFE-ADB4-45E21C23A242}|Project\\Project.csproj|solutionrelative:project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA01476E-C004-4FFE-ADB4-45E21C23A242}|Project\\Project.csproj|C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA01476E-C004-4FFE-ADB4-45E21C23A242}|Project\\Project.csproj|solutionrelative:project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\Project\\Form1.cs",
+              "RelativeToolTip": "Project\\Form1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:12:38.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Project\\Program.cs",
+              "ToolTip": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\Project\\Program.cs",
+              "RelativeToolTip": "Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:59:45.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\Project\\Form4.cs",
+              "RelativeDocumentMoniker": "Project\\Form4.cs",
+              "ToolTip": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\Project\\Form4.cs [Design]",
+              "RelativeToolTip": "Project\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:36:10.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\Project\\Form3.cs",
+              "RelativeDocumentMoniker": "Project\\Form3.cs",
+              "ToolTip": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\Project\\Form3.cs [Design]*",
+              "RelativeToolTip": "Project\\Form3.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:36:07.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\Project\\Form2.cs",
+              "RelativeDocumentMoniker": "Project\\Form2.cs",
+              "ToolTip": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\Project\\Form2.cs [Design]",
+              "RelativeToolTip": "Project\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:36:02.133Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\come334-project\\Project\\Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:35:57.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
